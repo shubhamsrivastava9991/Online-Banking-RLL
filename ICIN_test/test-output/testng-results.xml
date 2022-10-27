@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-27T22:15:06 IST" name="Default suite" finished-at="2022-10-27T22:15:35 IST" duration-ms="29564">
+    <groups>
+    </groups>
+    <test started-at="2022-10-27T22:15:06 IST" name="Default test" finished-at="2022-10-27T22:15:35 IST" duration-ms="29564">
+      <class name="frontEndTesting.UpdateUser">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:frontEndTesting.UpdateUser@568ff82]" started-at="2022-10-27T22:15:06 IST" name="setUp" finished-at="2022-10-27T22:15:12 IST" duration-ms="6828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginUser()[pri:1, instance:frontEndTesting.UpdateUser@568ff82]" started-at="2022-10-27T22:15:12 IST" name="loginUser" finished-at="2022-10-27T22:15:35 IST" duration-ms="22415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUser -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:frontEndTesting.UpdateUser@568ff82]" started-at="2022-10-27T22:15:35 IST" name="cleanUp" finished-at="2022-10-27T22:15:35 IST" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- frontEndTesting.UpdateUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
