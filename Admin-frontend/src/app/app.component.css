@@ -1,0 +1,11 @@
+body {
+	color: #fff;
+	background: #000000;
+    font-family: 'Roboto', sans-serif;
+    background-size: cover; 
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://img.freepik.com/free-photo/business-people-blue-background_53876-101889.jpg?w=740&t=st=1666874834~exp=1666875434~hmac=3c4311d6fc95b62d0b81bcfe4ad1fd02a9fb5b71d9af66bf81894b5f9961c450");
+    background-size:cover;
+}
+
