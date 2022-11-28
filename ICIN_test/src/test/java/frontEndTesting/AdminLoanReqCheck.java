@@ -16,7 +16,7 @@ public class AdminLoanReqCheck {
 	@BeforeTest
 	public void setUp() {
 		System.setProperty("webdriver.chrome.driver",
-				"F:\\Mphasis\\chromedriver.exe");
+				"F:\\workspace\\chromedriver.exe");
 		driver =  new ChromeDriver(); 
 		driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 	    driver.manage().window().maximize();
